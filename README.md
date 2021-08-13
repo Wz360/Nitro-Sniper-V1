@@ -3,6 +3,10 @@
 STATUS: ✔
 `Up and running`
 
+![Sick](https://user-images.githubusercontent.com/88908285/129421781-f35119f4-988e-4f64-a44b-465963847031.png)
+
+
+
 `Go To the Releases TAB to DOWNLOAD, and FOR INSTRUCTIONS`
 
 What does this Nitro Sniper do?
